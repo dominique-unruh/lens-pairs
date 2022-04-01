@@ -1,0 +1,6 @@
+/.stack-work/
+*~
+/.idea
+/stack.yaml.lock
+/haskell-lens-pair.iml
+/haskell-lens-pair.cabal
